@@ -98,7 +98,6 @@ namespace _16_HomeWork
 
             Console.Write("Выберите (1 - файл, 2 - директория): ");
             string choice = Console.ReadLine();
-
             try
             {
                 if (choice == "1")
